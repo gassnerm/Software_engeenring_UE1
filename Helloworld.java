@@ -1,5 +1,10 @@
-public static void main string (arge[])
-{
-	system.out.println("Hello World")
+public class newProgramm{
+	
+	public static void main String (args[])
+	{
+		System.out.println("Hello World");
+		System.out.println("3 Jahre ")
+
+	}
 
 }
