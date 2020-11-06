@@ -4,7 +4,6 @@ public class newProgramm{
 	{
 		System.out.println("Hello World");
 		System.out.println("3 Jahre ")
-
+		System.out.println("s")
 	}
-
 }
